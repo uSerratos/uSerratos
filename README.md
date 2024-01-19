@@ -11,5 +11,5 @@
 </H3> 
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uSerratos/uSerratos/main/other/video_git.gif" alt="image" width="50%" height="auto">
+  <img src="https://raw.githubusercontent.com/uSerratos/uSerratos/main/other/video_git.gif" alt="image" width="75%" height="auto">
 </p>

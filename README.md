@@ -3,14 +3,10 @@
   <H1> About </H1>
 </div>
 
-<div style="text-align: center">
-  <H3> Movement Science | Action Classification | Motion Capture | VR </H3>
-</div>
+### ∙ Movement Science ∙ Action Classification ∙ Motion Capture ∙ VR ∙
 
-<div style="text-align: justify"> 
-
-    Human movement science researcher with interdisciplinary  experience in human motion modelling through Virtual Reality experimental set ups that recreate realistic and immersive environments. 
-
+<div style="text-align: center"> 
+  <H3> Human movement science researcher with interdisciplinary experience in human motion modelling through Virtual Reality experimental set ups that recreate realistic and immersive environments. </H3>
 </div>
 
 <div style="text-align: center"> 

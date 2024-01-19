@@ -1,7 +1,15 @@
-# About
+<H1> 
+  <p align="center">
+      Movement Science Researcher 
+  </p>
+</H1>
 
-> ### Movement Science | Action Classification | Motion Capture | VR 
-
-<div style="text-align: center">
+<H3> 
+<p align="center">
+  Movement Science | Action Classification | Motion Capture | VR | Machine Learning
+</p>
+</H3> 
+  
+<p align="center">
   <img src="https://raw.githubusercontent.com/uSerratos/uSerratos/main/other/video_git.gif" alt="image" width="50%" height="auto">
-</div>
+</p>

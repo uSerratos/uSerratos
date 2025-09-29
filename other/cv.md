@@ -1,6 +1,6 @@
 ## PROFILE
 
-Human movement science researcher with interdisciplinary experience in human motion modelling through Virtual Reality experimental set ups that recreate realistic and immersive environments. Ulises main skills are human motion modelling, data acquisition and processing, dexterity characterisation, workspace analysis, as well as design and implementation of Virtual Reality environments for human motion studies. His PhD research proposed a novel method for the quantification and characterisation of human upper limb dexterity acknowledging uncertainty within the analysis, a method that combines the use of manipulability analysis (widely used in robotics), workspace analysis and the study of joint range of motion. His current research, at the UCL (London, UK), focuses on human motion sequencing to understand and characterize human behaviour for threat avoidance. The experimental set up employs Virtual Reality for an immersive experience, in which participant movements are recorded through both marker-based and marker-less motion capture systems. Ulises research interests are human movement behaviour, action classification, human dexterity, and biomechanics combined with the use of new technologies such as Virtual Reality, Machine Learning, and Neural Networks.
+PhD-educated Data Scientist specializing in applying advanced machine learning and statistical analysis to complex time-series and physiological data. Possesses over five years of hands-on experience building robust data pipelines in Python (Pandas, NumPy, Scikit-learn, PyTorch) and SQL. Expert in the full data science workflow, including data curation, advanced feature engineering, dimensionality reduction (PCA, UMAP), and developing hybrid models. A key project involved using unsupervised clustering (HDBSCAN) to discover novel features ("syllables of movement") from raw data, which then powered a highly accurate Random Forest classifier to predict complex human behaviours.
 
 ## EDUCATION
 
@@ -11,6 +11,10 @@ Human movement science researcher with interdisciplinary experience in human mot
 | **2005 – 2009** | BEng in Mechanical and Electrical Engineering – Faculty of Engineering, Universidad de La Salle Bajio - Mexico
 
 ## PUBLICATIONS
+
+- **Serratos Hernandez, U.D.**, Hutabarat, Y., Gokay, U., Bach, D. R. "Human movements during unsuccessful threat encounters", Gait & Posture (2025)
+  
+- **Serratos Hernandez, U.D.**, Brookes, J., Hall, S., Sporrer, J. K., Zabbah, S., Bach, D. R. "The syllables of human movement under threat", Gait & Posture (2024)
 
 - Sporrer, J.K., Brookes, J., Hall, S., Zabbah, S., **Serratos Hernandez, U.D.**, Bach, D.R., “Functional sophistication in human escape”, iScience (2023)
 
@@ -26,7 +30,7 @@ Human movement science researcher with interdisciplinary experience in human mot
 
 |     |     |
 | :--- | :--- |
-| **2020 – present** | Research Fellow in Human Motion Sequencing – Max Planck UCL Centre for Computational Psychiatry and Ageing Research – United Kingdom |
+| **2020 – present** | Research Fellow in Human Motion Sequencing – University College London – United Kingdom |
 | **2017 – 2020** | Graduate Teaching Assistant - MATLAB, Design Innovation Toolbox, Integrated Design Skills, Strategic Engineering Management and Business Practices, Danger Lab – Department of Mechanical Engineering, The University of Sheffield – United Kingdom
 | **2019 – 2019** | Principal Investigator (INSIGNEO Summer Research Programme) – INSIGNEO, Department of Mechanical Engineering, The University of Sheffield – United Kingdom
 | **2015 – 2016** | Quality and Management System Consultant - Turboaleaciones S.A. de C.V. – Mexico
@@ -35,11 +39,17 @@ Human movement science researcher with interdisciplinary experience in human mot
 
 ## SKILLS
 
-- **Human Motion Analysis** – Marker-based optical motion capture systems (Vicon Motion Systems, CODA motion), and Markerless motion capture techniques (Openpose, DeepLabCut, OpenCV)
-  
-- **Coding/ Analysis** – Python, MATLAB, C#, Nexus (Vicon Motion Systems), CODA motion, GitHub
+Coding	Python (Pandas, NumPy, Scikit-learn, PyTorch), SQL, MATLAB , Git
+ML	Supervised & Unsupervised Learning, Dimensionality Reduction, Time Series
+Tools | Data 	Git, OpenCV, Unity, Motion Capture Data (Marker-based & Marker-less) 
+Languages	Spanish (Native), English (Fluent), German (Basic-Intermediate) 	
 
-- **Virtual Reality** – Unity, HTC VIVE, Meta Quest
+
+- **Codings** – Python (Pandas, NumPy, Scikit-learn, PyTorch), SQL, MATLAB , Git
+  
+- **Machine Learning** – Supervised & Unsupervised Learning, Dimensionality Reduction, Time Series
+
+- **Tools | Data** – Git, OpenCV, Unity, Motion Capture Data (Marker-based & Marker-less), VR
   
 - **Languages** – Spanish (Native), English, German (Basic-Intermediate)
 
@@ -47,6 +57,8 @@ Human movement science researcher with interdisciplinary experience in human mot
 
 |     |     |
 | :--- | :--- |
+| **2025** | Podium presentation at the European Society for Movement Analysis in Adults and Children (ESMAC), Basel, Switzerland |
+| **2024** | Podium presentation at the European Society for Movement Analysis in Adults and Children (ESMAC), Oslo, Norway |
 | **2023** | Poster presentation at the European Society for Movement Analysis in Adults and Children (ESMAC), Athens, Greece |
 | **2022** | Attended the European Conference on Computer Vision, Tel Aviv, Israel |
 | **2022** | Attended the 27th Congress of the European Society of Biomechanics, Porto, Portugal
@@ -59,7 +71,7 @@ Human movement science researcher with interdisciplinary experience in human mot
 
 |     |     |
 | :--- | :--- |
-| **2023 – 2024** | European Society for Movement Analysis in Adults and Children (ESMAC)- Member
+| **2023 – 2026** | European Society for Movement Analysis in Adults and Children (ESMAC)- Member
 | **2022 – 2023** | European Society of Biomechanics (ESB) – Member |
 | **2019 – 2020** | European Society of Biomechanics (ESB) – Member |
 | **2016 – 2021** | INSIGNEO Institute for in silico Medicine, the University of Sheffield – United Kingdom – Member |
@@ -68,5 +80,7 @@ Human movement science researcher with interdisciplinary experience in human mot
 
 |     |     |
 | :--- | :--- |
+| **2025** | UCL Research Capital Infrastructure Funds (RCIF), by Research England (£62k) |
+| **2024** | UCL Research Capital Infrastructure Funds (RCIF), by Research England (£150k) |
 | **2019** | Learned Societies Funding – Department of Mechanical Engineering – The University of Sheffield |
 | **2016** | Mexican Council of Science and Technology Fellowship for International Research |

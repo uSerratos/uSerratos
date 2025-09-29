@@ -1,6 +1,6 @@
 <H1> 
   <p align="center">
-      Data Scientist | Engineer | Researcher 
+      Data Scientist + Engineer + Researcher 
   </p>
 </H1>
 
